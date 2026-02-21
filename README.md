@@ -1,56 +1,52 @@
-<h1 align="center">Chethan K</h1>
-<h3 align="center">BCA Student • Aspiring Python Developer</h3>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="center">
-  <a href="https://github.com/ChethankrishnaRao">
-    <img src="https://komarev.com/ghpvc/?username=ChethankrishnaRao&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-## 👨‍💻 About Me
+###
 
-- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
-- 🐍 Currently focused on learning **Python fundamentals**
-- 📚 Improving problem-solving and logical thinking skills
-- 🚀 Building beginner-friendly projects to strengthen core concepts
-- 🎯 Actively preparing for entry-level internship opportunities
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
----
+###
 
-## 📌 Current Focus
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-- Writing clean and readable code  
-- Practicing Python basics consistently  
-- Developing strong programming foundations  
-- Growing step-by-step as a developer  
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChethankrishnaRao&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ChethankrishnaRao&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## 🎯 Career Objective
-
-To gain practical experience in software development through internship opportunities and grow into a confident Python developer.
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/ChethankrishnaRao">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-</p>
+###
