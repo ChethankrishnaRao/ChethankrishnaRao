@@ -1,59 +1,56 @@
-<h1 align="center">Hi 👋, I'm Chethan K</h1>
-<h3 align="center">BCA Student | Aspiring Python Developer</h3>
+<h1 align="center">Chethan K</h1>
+<h3 align="center">BCA Student • Aspiring Python Developer</h3>
 
 <p align="center">
   <a href="https://github.com/ChethankrishnaRao">
-    <img src="https://komarev.com/ghpvc/?username=ChethankrishnaRao&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=ChethankrishnaRao&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**
-- 🐍 Learning and practicing **Python fundamentals**
-- 📚 Focused on improving **problem-solving skills**
-- 🌱 Continuously building small projects to strengthen my understanding
-- 🎯 Goal: To secure an **entry-level Python internship**
+- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
+- 🐍 Currently focused on learning **Python fundamentals**
+- 📚 Improving problem-solving and logical thinking skills
+- 🚀 Building beginner-friendly projects to strengthen core concepts
+- 🎯 Actively preparing for entry-level internship opportunities
 
 ---
 
-## 📈 Current Focus
+## 📌 Current Focus
 
-- Strengthening programming basics  
 - Writing clean and readable code  
-- Building beginner-level Python projects  
-- Improving consistency and coding discipline  
+- Practicing Python basics consistently  
+- Developing strong programming foundations  
+- Growing step-by-step as a developer  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChethankrishnaRao&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChethankrishnaRao&theme=tokyonight" alt="streak stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChethankrishnaRao&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ChethankrishnaRao&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🎯 Career Objective
 
-To gain practical experience in software development through internship opportunities and grow as a professional Python developer.
+To gain practical experience in software development through internship opportunities and grow into a confident Python developer.
 
 ---
 
-## 📬 Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/ChethankrishnaRao" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="github" height="20" width="20" />
+<p align="center">
+  <a href="https://github.com/ChethankrishnaRao">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="linkedin" height="20" width="20" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
