@@ -19,17 +19,6 @@ Currently Pursuing
 
 ---
 
-## Technical Focus
-
-- Python Programming (Fundamentals)
-- Control Flow and Loops
-- Functions and Basic Problem Solving
-- Object-Oriented Programming (Basics)
-- Basic File Handling
-- Git and GitHub
-
----
-
 ## Current Learning Goals
 
 - Strengthening Python fundamentals
