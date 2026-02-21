@@ -1,10 +1,8 @@
 <h1 align="center">Hey 👋 I'm Chethan K</h1>
-<h3 align="center">BCA Student • Aspiring Python Developer • Entry-Level Learner</h3>
+<h3 align="center">BCA Student • Aspiring Python Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/ChethankrishnaRao">
-    <img src="https://komarev.com/ghpvc/?username=ChethankrishnaRao&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ChethankrishnaRao&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -13,13 +11,13 @@
 
 - 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**
 - 🐍 Learning and practicing **Python fundamentals**
-- 📚 Focused on improving logical thinking and problem-solving
-- 🚀 Building beginner-level projects to strengthen core concepts
+- 📚 Improving logical thinking and problem-solving skills
+- 🚀 Building beginner-level projects
 - 🎯 Preparing for entry-level internship opportunities
 
 ---
 
-## 🧠 Current Tech Focus
+## 🧠 Tech Focus
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60"/>
@@ -36,8 +34,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChethankrishnaRao&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=ChethankrishnaRao&theme=github-dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChethankrishnaRao&show_icons=true&theme=dark&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ChethankrishnaRao&theme=dark&hide_border=true" />
 </div>
 
 ---
