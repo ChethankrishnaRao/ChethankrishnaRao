@@ -12,31 +12,28 @@
 - 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**
 - 🐍 Learning and practicing **Python fundamentals**
 - 📚 Improving logical thinking and problem-solving skills
-- 🚀 Building beginner-level projects
+- 🚀 Building beginner-level Python projects
 - 🎯 Preparing for entry-level internship opportunities
 
 ---
 
-## 🧠 Tech Focus
+## 🧠 Current Tech Focus
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60"/>
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=git" height="60"/>
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=github" height="60"/>
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChethankrishnaRao&show_icons=true&theme=dark&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=ChethankrishnaRao&theme=dark&hide_border=true" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChethankrishnaRao&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=ChethankrishnaRao&theme=dark&hide_border=true" />
+</p>
 
 ---
 
@@ -48,11 +45,11 @@ To gain practical experience in software development through internship opportun
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/ChethankrishnaRao">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+</p>
