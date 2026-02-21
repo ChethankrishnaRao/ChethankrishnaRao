@@ -1,43 +1,51 @@
-<h1 align="center">Hey 👋 I'm Chethan K</h1>
-<h3 align="center">BCA Student • Aspiring Python Developer</h3>
+# Chethan K
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChethankrishnaRao&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+BCA Student | Aspiring Python Developer | Entry-Level Programmer
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**
-- 🐍 Learning and practicing **Python fundamentals**
-- 📚 Improving logical thinking and problem-solving skills
-- 🚀 Building beginner-level Python projects
-- 🎯 Preparing for entry-level internship opportunities
+I am currently pursuing a Bachelor of Computer Applications (BCA) with a strong interest in Python programming and software development.
+
+I am focused on building a solid foundation in programming fundamentals, improving logical thinking, and writing clean, maintainable code. I am actively preparing for entry-level internship opportunities where I can gain practical experience and grow as a developer.
 
 ---
 
-## 🧠 Current Tech Focus
+## Education
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-</p>
-
----
-
-## 🎯 Career Objective
-
-To gain practical experience in software development through internship opportunities and grow into a confident Python developer.
+Bachelor of Computer Applications (BCA)  
+Currently Pursuing
 
 ---
 
-## 🤝 Connect With Me
+## Technical Focus
 
-<p align="center">
-  <a href="https://github.com/ChethankrishnaRao">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+- Python Programming (Fundamentals)
+- Control Flow and Loops
+- Functions and Basic Problem Solving
+- Object-Oriented Programming (Basics)
+- Basic File Handling
+- Git and GitHub
+
+---
+
+## Current Learning Goals
+
+- Strengthening Python fundamentals
+- Practicing problem-solving and logic building
+- Developing beginner-level Python projects
+- Improving consistency and coding discipline
+
+---
+
+## Career Objective
+
+To secure an entry-level internship opportunity in software development where I can apply my academic knowledge, contribute effectively to projects, and continue developing my technical skills.
+
+---
+
+## Contact
+
+GitHub: https://github.com/ChethankrishnaRao  
+LinkedIn: https://www.linkedin.com/in/chetan-k-rao-4266422a1
