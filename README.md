@@ -25,18 +25,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChethankrishnaRao&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChethankrishnaRao&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Career Objective
 
 To gain practical experience in software development through internship opportunities and grow into a confident Python developer.
